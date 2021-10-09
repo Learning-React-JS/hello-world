@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Installation
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Install the create-react-app package by using 'npm install -g create-react-app' command.
+Then use 'npx create-react-app my-app' to create your application. 
 
 ## Available Scripts
 
